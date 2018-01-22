@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=NGNIv1_32.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=NGNIv1_32.SchDoc|Designator=AFE|SchDesignator=AFE|FileName=Mod_Intan_v1.SchDoc|SymbolType=Normal|RawFileName=Mod_Intan_v1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=NGNIv1_32.SchDoc|Designator=FPGA|SchDesignator=FPGA|FileName=Mod_Igloo_v1.SchDoc|SymbolType=Normal|RawFileName=Mod_Igloo_v1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
