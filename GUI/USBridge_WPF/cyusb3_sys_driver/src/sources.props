@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TARGETNAME Condition="'$(OVERRIDE_TARGETNAME)'!='true'">cyusb3</TARGETNAME>
+    <TARGETTYPE Condition="'$(OVERRIDE_TARGETTYPE)'!='true'">DRIVER</TARGETTYPE>
+    <KMDF_VERSION_MAJOR Condition="'$(OVERRIDE_KMDF_VERSION_MAJOR)'!='true'">1</KMDF_VERSION_MAJOR>
+    <INF_NAME Condition="'$(OVERRIDE_INF_NAME)'!='true'">cyusb3</INF_NAME>
+    <NTTARGETFILES Condition="'$(OVERRIDE_NTTARGETFILES)'!='true'">$(OBJ_PATH)\$(O)\$(INF_NAME).inf</NTTARGETFILES>
+    <MISCFILES Condition="'$(OVERRIDE_MISCFILES)'!='true'">$(NTTARGETFILES)</MISCFILES>
+    <C_DEFINES Condition="'$(OVERRIDE_C_DEFINES)'!='true'">$(C_DEFINES)</C_DEFINES>
+    <INCLUDES Condition="'$(OVERRIDE_INCLUDES)'!='true'">$(INCLUDES);..\..\inc</INCLUDES>
+    <TARGETLIBS Condition="'$(OVERRIDE_TARGETLIBS)'!='true'">$(TARGETLIBS) $(DDK_LIB_PATH)\usbd.lib</TARGETLIBS>
+    <SOURCES Condition="'$(OVERRIDE_SOURCES)'!='true'">cyentry.c 		cydevice.c 		cyio.c 		cypnppower.c 		cyioctl.c 		cyinterruptep.c 		cyiso.c 		cyfileio.c 		cyscript.c 		cyusb.rc</SOURCES>
+  </PropertyGroup>
+  <ItemGroup>
+    <InvokedTargetsList Include="$(OBJ_PATH)\$(O)\$(INF_NAME).inf">
+      <Pass>All</Pass>
+      <Condition>
+      </Condition>
+    </InvokedTargetsList>
+  </ItemGroup>
+  <Choose>
+    <When Condition="'$(ENABLE_EVENT_TRACING)'!=''">
+      <PropertyGroup>
+        <C_DEFINES Condition="'$(OVERRIDE_C_DEFINES)'!='true'">$(C_DEFINES) -DEVENT_TRACING</C_DEFINES>
+        <RUN_WPP Condition="'$(OVERRIDE_RUN_WPP)'!='true'">$(SOURCES)                                       -km                                              -func:CyTraceEvents(LEVEL,FLAGS,MSG,...)           -gen:{km-WdfDefault.tpl}*.tmh</RUN_WPP>
+      </PropertyGroup>
+    </When>
+  </Choose>
+  <PropertyGroup>
+    <TARGET_DESTINATION Condition="'$(OVERRIDE_TARGET_DESTINATION)'!='true'">wdf</TARGET_DESTINATION>
+    <ALLOW_DATE_TIME Condition="'$(OVERRIDE_ALLOW_DATE_TIME)'!='true'">1</ALLOW_DATE_TIME>
+  </PropertyGroup>
+</Project>

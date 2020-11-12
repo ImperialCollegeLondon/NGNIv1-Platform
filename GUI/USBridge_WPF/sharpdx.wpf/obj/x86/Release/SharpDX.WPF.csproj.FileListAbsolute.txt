@@ -1,0 +1,107 @@
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.WPF.dll
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.WPF.pdb
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.D3DCompiler.dll
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct2D1.dll
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D10.dll
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D11.dll
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D9.dll
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.dll
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.DXGI.dll
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.xml
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.D3DCompiler.xml
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct2D1.xml
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D10.xml
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D11.xml
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D9.xml
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.DXGI.xml
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\bin\x86\Release\System.Threading.Tasks.Dataflow.xml
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\obj\x86\Release\SharpDX.WPF.csprojResolveAssemblyReference.cache
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\obj\x86\Release\SharpDX.WPF.dll
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\obj\x86\Release\SharpDX.WPF.pdb
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.WPF.dll
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.WPF.pdb
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.D3DCompiler.dll
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D10.dll
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.dll
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.DXGI.dll
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.xml
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.D3DCompiler.xml
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D10.xml
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.DXGI.xml
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\System.Threading.Tasks.Dataflow.xml
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\obj\x86\Release\SharpDX.WPF.csprojResolveAssemblyReference.cache
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\obj\x86\Release\SharpDX.WPF.dll
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\SharpDX.WPF\obj\x86\Release\SharpDX.WPF.pdb
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.WPF.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.WPF.pdb
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.D3DCompiler.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D10.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.DXGI.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.D3DCompiler.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D10.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.DXGI.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\System.Threading.Tasks.Dataflow.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\obj\x86\Release\SharpDX.WPF.csprojResolveAssemblyReference.cache
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\obj\x86\Release\SharpDX.WPF.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\obj\x86\Release\SharpDX.WPF.pdb
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.WPF.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.WPF.pdb
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.D3DCompiler.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct2D1.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D10.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D11.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D9.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.DXGI.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.D3DCompiler.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct2D1.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D10.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D11.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D9.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.DXGI.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\bin\x86\Release\System.Threading.Tasks.Dataflow.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\obj\x86\Release\SharpDX.WPF.csprojResolveAssemblyReference.cache
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\obj\x86\Release\SharpDX.WPF.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\SharpDX.WPF\obj\x86\Release\SharpDX.WPF.pdb
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.WPF.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.WPF.pdb
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.D3DCompiler.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D10.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.DXGI.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.D3DCompiler.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D10.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\bin\x86\Release\SharpDX.DXGI.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\bin\x86\Release\System.Threading.Tasks.Dataflow.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\obj\x86\Release\SharpDX.WPF.csprojAssemblyReference.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\obj\x86\Release\SharpDX.WPF.csproj.CoreCompileInputs.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\obj\x86\Release\SharpDX.WPF.csproj.CopyComplete
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\obj\x86\Release\SharpDX.WPF.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\SharpDX.WPF\obj\x86\Release\SharpDX.WPF.pdb

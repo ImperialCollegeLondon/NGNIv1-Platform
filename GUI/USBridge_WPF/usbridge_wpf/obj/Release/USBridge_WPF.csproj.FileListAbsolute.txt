@@ -1,0 +1,8 @@
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\Release\USBridge_WPF.exe.config
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\Release\USBridge_WPF.csprojResolveAssemblyReference.cache
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\Release\Channel_Config.baml
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\Release\MainWindow.baml
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\Release\Channel_Config.g.cs
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\Release\MainWindow.g.cs
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\Release\App.g.cs
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\Release\USBridge_WPF_MarkupCompile.cache

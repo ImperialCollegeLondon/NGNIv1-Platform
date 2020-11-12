@@ -1,0 +1,6 @@
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\bin\Debug\ASIC_Interface.dll
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\bin\Debug\ASIC_Interface.pdb
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\obj\Debug\ASIC_Interface.dll
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\obj\Debug\ASIC_Interface.pdb

@@ -1,0 +1,354 @@
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.exe.config
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.exe.manifest
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.application
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.exe
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.pdb
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\ASIC_Interface.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\CyUSB.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\DynamicDataDisplay.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\INTAN_RHD2000.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.D3DCompiler.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D10.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D11.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D9.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.DXGI.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.WPF.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.AvalonDock.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.DataGrid.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.Toolkit.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\ASIC_Interface.pdb
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\INTAN_RHD2000.pdb
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.WPF.pdb
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.xml
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.D3DCompiler.xml
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D10.xml
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D11.xml
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D9.xml
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.DXGI.xml
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\System.Threading.Tasks.Dataflow.xml
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\bin\x86\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.csprojResolveAssemblyReference.cache
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\timePlot.baml
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\Channel_Config.g.cs
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\MainWindow.g.cs
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\Realtime_Results.g.cs
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\timePlot.g.cs
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\App.g.cs
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF_Content.g.cs
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF_MarkupCompile.cache
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF_MarkupCompile.lref
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\Channel_Config.baml
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\MainWindow.baml
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\Realtime_Results.baml
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.g.resources
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.Properties.Resources.resources
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.csproj.GenerateResource.Cache
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.exe.manifest
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.application
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.exe
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.pdb
+D:\visual studio 2013\Projects\USBridge_WPF\USBridge_WPF\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.exe.config
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Interop.MLApp.dll
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.csproj.ResolveComReference.cache
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.exe
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.pdb
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.csprojResolveAssemblyReference.cache
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Resources\Icons.baml
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Resources\Steel_mod.baml
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\USBridge_WPF\obj\x86\Release\AmplifierSettings.g.cs
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\USBridge_WPF\obj\x86\Release\SpikeScopeView.g.cs
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\USBridge_WPF\obj\x86\Release\WaveformScopeView.g.cs
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\USBridge_WPF\obj\x86\Release\DataPlotterHeader.g.cs
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Realtime_Results.g.cs
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Resources\Icons.g.cs
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\USBridge_WPF\obj\x86\Release\SelectPlotChannelDiag.g.cs
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF_Content.g.cs
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF_MarkupCompile.cache
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF_MarkupCompile.lref
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.exe.config
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Interop.MLApp.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.csproj.ResolveComReference.cache
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.exe
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.pdb
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.exe.manifest
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.application
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.exe
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.pdb
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\ASIC_Interface.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\CyUSB.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\Dragablz.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\INTAN_RHD2000.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\MahApps.Metro.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\NAudio.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\nunit.framework.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.D3DCompiler.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D10.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.DXGI.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.WPF.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\System.Windows.Interactivity.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.DataGrid.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\ASIC_Interface.pdb
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\INTAN_RHD2000.pdb
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.WPF.pdb
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\Dragablz.pdb
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\Dragablz.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\MahApps.Metro.pdb
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\MahApps.Metro.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\NAudio.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\nunit.framework.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.D3DCompiler.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D10.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.DXGI.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\System.Threading.Tasks.Dataflow.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.csprojResolveAssemblyReference.cache
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Resources\Icons.baml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Resources\IconsNonShared.baml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Resources\Steel_mod.baml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\AmplifierSettings.g.cs
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\SpikeScopeView.g.cs
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\WaveformScopeView.g.cs
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\DataPlotterHeader.g.cs
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Dragablz\BoundExampleWindow.g.cs
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\MainWindow.g.cs
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Realtime_Results.g.cs
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\SelectPlotChannelDiag.g.cs
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\App.g.cs
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF_Content.g.cs
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF_MarkupCompile.cache
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF_MarkupCompile.lref
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\App.baml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\AmplifierSettings.baml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\SpikeScopeView.baml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\WaveformScopeView.baml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\DataPlotterHeader.baml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Dragablz\BoundExampleWindow.baml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\MainWindow.baml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Realtime_Results.baml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\SelectPlotChannelDiag.baml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.g.resources
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.Properties.Resources.resources
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.csproj.GenerateResource.Cache
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.exe.manifest
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.application
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.exe.config
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Interop.MLApp.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.csproj.ResolveComReference.cache
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.exe
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.pdb
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.exe.manifest
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.application
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.exe
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.pdb
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\ASIC_Interface.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\CyUSB.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\Dragablz.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\INTAN_RHD2000.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\MahApps.Metro.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\NAudio.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\nunit.framework.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.D3DCompiler.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct2D1.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D10.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D11.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.DXGI.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.WPF.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\System.Windows.Interactivity.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.AvalonDock.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.DataGrid.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.Toolkit.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D9.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\ASIC_Interface.pdb
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\INTAN_RHD2000.pdb
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.WPF.pdb
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\Dragablz.pdb
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\Dragablz.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\MahApps.Metro.pdb
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\MahApps.Metro.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\NAudio.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\nunit.framework.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.D3DCompiler.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct2D1.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D10.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D11.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.DXGI.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\System.Threading.Tasks.Dataflow.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D9.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\bin\x86\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.csprojResolveAssemblyReference.cache
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Resources\Icons.baml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Resources\IconsNonShared.baml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Resources\Steel_mod.baml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\AmplifierSettings.g.cs
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\SpikeScopeView.g.cs
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\WaveformScopeView.g.cs
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\DataPlotterHeader.g.cs
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Dragablz\BoundExampleWindow.g.cs
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\MainWindow.g.cs
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Realtime_Results.g.cs
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\SelectPlotChannelDiag.g.cs
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\App.g.cs
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF_Content.g.cs
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF_MarkupCompile.cache
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF_MarkupCompile.lref
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\App.baml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\AmplifierSettings.baml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\SpikeScopeView.baml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\WaveformScopeView.baml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\DataPlotterHeader.baml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Dragablz\BoundExampleWindow.baml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\MainWindow.baml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\Realtime_Results.baml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\SelectPlotChannelDiag.baml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.g.resources
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.Properties.Resources.resources
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.csproj.GenerateResource.Cache
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.exe.manifest
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.application
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.exe.config
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.exe.manifest
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.application
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.exe
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\USBridge_WPF.pdb
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\ASIC_Interface.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\CyUSB.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\Dragablz.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\INTAN_RHD2000.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\MahApps.Metro.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\NAudio.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\nunit.framework.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.D3DCompiler.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D10.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.DXGI.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.WPF.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\System.Windows.Interactivity.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.DataGrid.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\ASIC_Interface.pdb
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\INTAN_RHD2000.pdb
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.WPF.pdb
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\Dragablz.pdb
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\Dragablz.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\MahApps.Metro.pdb
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\MahApps.Metro.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\NAudio.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\nunit.framework.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.D3DCompiler.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D10.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.DXGI.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\System.Threading.Tasks.Dataflow.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\bin\x86\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.csprojAssemblyReference.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\Interop.MLApp.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.csproj.ResolveComReference.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\Resources\Icons.baml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\Resources\IconsNonShared.baml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\Resources\Steel_mod.baml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\AmplifierSettings.g.cs
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\SpikeScopeView.g.cs
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\WaveformScopeView.g.cs
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\DataPlotterHeader.g.cs
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\Dragablz\BoundExampleWindow.g.cs
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\MainWindow.g.cs
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\Realtime_Results.g.cs
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\SelectPlotChannelDiag.g.cs
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\App.g.cs
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF_Content.g.cs
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF_MarkupCompile.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF_MarkupCompile.lref
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\App.baml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\AmplifierSettings.baml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\SpikeScopeView.baml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\WaveformScopeView.baml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\DataPlotterHeader.baml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\Dragablz\BoundExampleWindow.baml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\MainWindow.baml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\Realtime_Results.baml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\SelectPlotChannelDiag.baml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.g.resources
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.Properties.Resources.resources
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.csproj.GenerateResource.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.csproj.CoreCompileInputs.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.exe.manifest
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.application
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.csproj.CopyComplete
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.exe
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\USBridge_WPF\obj\x86\Release\USBridge_WPF.pdb

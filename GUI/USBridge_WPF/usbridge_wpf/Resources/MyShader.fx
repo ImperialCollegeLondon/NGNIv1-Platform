@@ -1,0 +1,102 @@
+//cbuffer ConstantBuffer : register(b0)
+//{
+//	matrix xWorld;
+//	matrix xView;
+//	matrix xProjection;
+//}
+//
+////matrix  xWorld; 
+////matrix  xView; 
+////matrix xProjection; 
+////float4 Overlay : OverlayColor;
+//
+//struct VS_IN
+//{
+//    float4 pos : POSITION;
+//    float4 col : COLOR;
+//};
+//
+//struct PS_IN
+//{
+//    float4 pos : SV_POSITION;
+//    float4 col : COLOR;
+//};
+//
+//PS_IN VS( VS_IN input )
+//{
+//    PS_IN output = (PS_IN)0;
+//
+//    output.pos = mul( input.pos,  xWorld);
+//    output.pos = mul( output.pos, xView );
+//    output.pos = mul( output.pos, xProjection );
+//    // output.pos = input.pos;
+//    output.col = input.col;
+//    
+//    return output;
+//}
+//
+//float4 PS( PS_IN input ) : SV_Target
+//{
+//    return input.col;
+//}
+//
+////technique10 Render
+////{
+////    pass P0
+////    {
+////        SetGeometryShader( 0 );
+////        SetVertexShader( CompileShader( vs_4_0, VS() ) );
+////        SetPixelShader( CompileShader( ps_4_0, PS() ) );
+////    }
+////}
+
+
+//--------------------------------------------------------------------------------------
+// Constant Buffer Variables
+//--------------------------------------------------------------------------------------
+cbuffer ConstantBuffer : register(b0)
+{
+	matrix World;
+	matrix View;
+	matrix Projection;
+}
+
+//--------------------------------------------------------------------------------------
+struct VS_OUTPUT
+{
+	float4 Pos : SV_POSITION;
+	float4 Color : COLOR0;
+};
+
+//--------------------------------------------------------------------------------------
+// Vertex Shader
+//--------------------------------------------------------------------------------------
+VS_OUTPUT VS(float4 Pos : POSITION, float4 Color : COLOR)
+{
+	VS_OUTPUT output = (VS_OUTPUT)0;
+	output.Pos = mul(Pos, World);
+	output.Pos = mul(output.Pos, View);
+	output.Pos = mul(output.Pos, Projection);
+	output.Color = Color;
+	return output;
+}
+
+
+//--------------------------------------------------------------------------------------
+// Pixel Shader
+//--------------------------------------------------------------------------------------
+float4 PS(VS_OUTPUT input) : SV_Target
+{
+	return input.Color;
+}
+
+//technique10 Render
+//{
+//	pass P0
+//	{
+//		SetGeometryShader(0);
+//		SetVertexShader(CompileShader(vs_4_0, VS()));
+//		SetPixelShader(CompileShader(ps_4_0, PS()));
+//	}
+//}
+

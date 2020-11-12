@@ -1,0 +1,414 @@
+﻿<controls:MetroWindow
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:dockablz="clr-namespace:Dragablz.Dockablz;assembly=Dragablz"
+        xmlns:dragablz="clr-namespace:Dragablz;assembly=Dragablz"
+        mc:Ignorable="d" 
+    xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+    xmlns:usbridgeWpf="clr-namespace:USBridge_WPF"
+    xmlns:xcdg="http://schemas.xceed.com/wpf/xaml/datagrid"
+    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+    x:Class="USBridge_WPF.MainWindow"
+    x:Name="WindowsMain"
+    Title="USBridge" ResizeMode="CanResizeWithGrip" Topmost="False"
+    Height="768" Width="1024"
+    Closing="Window_Closing"
+    WindowStartupLocation="CenterScreen" GlowBrush="{DynamicResource AccentColorBrush}" ShowIconOnTitleBar="False"
+    d:DataContext="{d:DesignInstance usbridgeWpf:BoundExampleModel, IsDesignTimeCreatable=False}" ContentRendered="MainWindow_OnContentRendered">
+    <!--<Window.Resources>
+        <ResourceDictionary>
+            <xcdg:InverseBooleanConverter x:Key="InverseBooleanConverter" />
+            <ObjectDataProvider MethodName="GetValues" ObjectType="{x:Type sys:Enum}" x:Key="Savemode">
+                <ObjectDataProvider.MethodParameters>
+                    <x:Type TypeName="usbridgeWpf:FileSaveModeList" />
+                </ObjectDataProvider.MethodParameters>
+            </ObjectDataProvider>
+        </ResourceDictionary>
+    </Window.Resources>-->
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Resources/Icons.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colors.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/FlatSlider.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/Steel.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/basedark.xaml" />
+                <ResourceDictionary>
+                    <Canvas x:Key="RecordIcon" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+                        <Ellipse Width="75" Height="75" Canvas.Left="0.499999" Canvas.Top="0.500008" Stretch="Fill" StrokeThickness="7" StrokeLineJoin="Round" Stroke="#FFFF0000"/>
+                        <Viewbox Width="37.4588" Height="13.7412" Canvas.Left="19.2706" Canvas.Top="31.1294">
+                            <Canvas Width="37.4588" Height="13.7412">
+                                <Path Width="12.0471" Height="13.5529" Canvas.Left="0" Canvas.Top="0.188236" Stretch="Fill" Fill="#FFFF0000" Data="F1 M 0,13.7412L 0,0.188236L 5.67353,0.188236C 7.09902,0.188236 8.13529,0.309803 8.78235,0.55294C 9.42941,0.796082 9.94706,1.22892 10.3353,1.85147C 10.7235,2.47402 10.9176,3.1853 10.9176,3.98529C 10.9176,5.00294 10.6387,5.84265 10.0809,6.50441C 9.52304,7.16618 8.68922,7.58334 7.57941,7.75588C 8.13235,8.10098 8.58824,8.48039 8.94706,8.89412C 9.30588,9.30785 9.7902,10.0412 10.4,11.0941L 12.0471,13.7412L 8.97059,13.7412L 7.04412,10.6676C 6.30686,9.66569 5.80196,9.03481 5.52941,8.775C 5.25686,8.5152 4.96863,8.33677 4.66471,8.23971C 4.36078,8.14265 3.87843,8.09412 3.21765,8.09412L 2.63529,8.09412L 2.63529,13.7412L 0,13.7412 Z M 2.63529,5.8353L 4.70294,5.8353C 6.04412,5.8353 6.88137,5.78088 7.21471,5.67206C 7.54804,5.56324 7.80931,5.375 7.99853,5.10735C 8.18774,4.83971 8.28235,4.50588 8.28235,4.10588C 8.28235,3.6549 8.15784,3.29167 7.90882,3.01618C 7.6598,2.74068 7.30882,2.56569 6.85588,2.49118C 6.63039,2.46177 5.95098,2.44706 4.81765,2.44706L 2.63529,2.44706L 2.63529,5.8353 Z "/>
+                                <Path Width="10.3529" Height="13.5529" Canvas.Left="13.5529" Canvas.Top="0.188236" Stretch="Fill" Fill="#FFFF0000" Data="F1 M 13.5529,13.7412L 13.5529,0.188236L 23.7176,0.188236L 23.7176,2.44706L 16.1882,2.44706L 16.1882,5.45882L 23.1529,5.45882L 23.1529,7.71765L 16.1882,7.71765L 16.1882,11.4824L 23.9059,11.4824L 23.9059,13.7412L 13.5529,13.7412 Z "/>
+                                <Path Width="11.8588" Height="13.7412" Canvas.Left="25.6" Canvas.Top="0" Stretch="Fill" Fill="#FFFF0000" Data="F1 M 34.8235,8.65882L 37.4588,9.41177C 37.051,10.8765 36.3716,11.9642 35.4206,12.675C 34.4696,13.3858 33.2637,13.7412 31.8029,13.7412C 29.9951,13.7412 28.5093,13.1382 27.3456,11.9324C 26.1819,10.7265 25.6,9.07843 25.6,6.98824C 25.6,4.77647 26.1774,3.05883 27.3324,1.8353C 28.4872,0.611763 30.0059,0 31.8882,0C 33.5333,0 34.8686,0.488239 35.8941,1.46471C 36.5059,2.04314 36.9647,2.87255 37.2706,3.95294L 34.6353,4.51765C 34.4706,3.81961 34.1274,3.26863 33.6059,2.86471C 33.0843,2.46078 32.451,2.25882 31.7059,2.25882C 30.6745,2.25882 29.8382,2.6152 29.1971,3.32794C 28.5559,4.04069 28.2353,5.19412 28.2353,6.78824C 28.2353,8.48039 28.5559,9.68579 29.1971,10.4044C 29.8382,11.123 30.6716,11.4824 31.6971,11.4824C 32.4539,11.4824 33.1049,11.2554 33.65,10.8015C 34.1951,10.3475 34.5863,9.63334 34.8235,8.65882 Z "/>
+                            </Canvas>
+                        </Viewbox>
+                    </Canvas>
+                </ResourceDictionary>
+                <ResourceDictionary Source="pack://application:,,,/Dragablz;component/Themes/MahApps.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <controls:MetroWindow.LeftWindowCommands>
+        <controls:WindowCommands>
+            <Button ToolTip="Developed by CBiT @ Imperial College London">
+                <Rectangle Width="25"
+                           Height="25"
+                           Fill="{Binding RelativeSource={RelativeSource AncestorType=Button}, Path=Foreground}">
+                    <Rectangle.OpacityMask>
+                        <VisualBrush Stretch="Uniform" Visual="{StaticResource appbar_devcenter}" />
+                    </Rectangle.OpacityMask>
+                </Rectangle>
+            </Button>
+        </controls:WindowCommands>
+    </controls:MetroWindow.LeftWindowCommands>
+    <controls:MetroWindow.RightWindowCommands>
+        <controls:WindowCommands ShowSeparators="True">
+            <Button Click="OpenProjectFolder">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Project:" Margin="5" />
+                    <TextBlock Text="{Binding Path=ProjectFolder, ElementName=WindowsMain, Mode=OneWay }"  Margin="5" />
+                </StackPanel>
+            </Button>
+        </controls:WindowCommands>
+    </controls:MetroWindow.RightWindowCommands>
+    <controls:MetroContentControl  TransitionsEnabled="False" OnlyLoadTransition="False">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <ToggleButton Grid.Column="0" Grid.Row="0" Width="35" Height="35" Click="ToggleSaveResults"
+                          Style="{DynamicResource MetroCircleToggleButtonStyle}" VerticalAlignment="Center">
+                <!--Content="}" FontFamily="/Resources/#Entypo" FontSize="50" Foreground="Red" VerticalAlignment="Center" HorizontalAlignment="Center">-->
+                <Rectangle>
+                    <Rectangle.Style>
+                        <Style TargetType="{x:Type Rectangle}">
+                            <Setter Property="OpacityMask">
+                                <Setter.Value>
+                                    <VisualBrush Stretch="Uniform" Visual="{StaticResource appbar_moon_full}" />
+                                </Setter.Value>
+                            </Setter>
+                            <Setter Property="Fill" Value="Red" />
+                            <Setter Property="VerticalAlignment" Value="Center" />
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                            <Setter Property="Height" Value="15" />
+                            <Setter Property="Width" Value="15" />
+                            <Setter Property="ToolTip" Value="Start Recording" />
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding Path=IsChecked, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type ToggleButton}}}"
+                                             Value="True">
+                                    <Setter Property="OpacityMask">
+                                        <Setter.Value>
+                                            <VisualBrush Stretch="Uniform" Visual="{DynamicResource appbar_control_stop}" />
+                                        </Setter.Value>
+                                    </Setter>
+                                    <Setter Property="Fill"
+                                            Value="{Binding Path=Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type ToggleButton}}}" />
+                                    <Setter Property="VerticalAlignment" Value="Center" />
+                                    <Setter Property="HorizontalAlignment" Value="Center" />
+                                    <Setter Property="Height" Value="13" />
+                                    <Setter Property="Width" Value="13" />
+                                    <Setter Property="ToolTip" Value="Stop Recording" />
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Rectangle.Style>
+                </Rectangle>
+            </ToggleButton>
+            <!--<controls:ToggleSwitch Grid.Column="1" Grid.Row="0" Width="160"
+                                   OnLabel="Spike Events" OffLabel="Neural Signal" SwitchForeground="Aqua" FontSize="14"
+                                   IsChecked="{Binding Path=(usbridgeWpf:MainWindow.IsSpikeSorting)}" Checked="SwitchToSpikeSorting" Unchecked="SwitchToNeuralSignal"/>--><!--IsEnabled="{Binding Path=IsDemo, ElementName=WindowsMain, Converter={StaticResource InverseBooleanConverter}}"-->
+            <StackPanel Grid.Column="1" Grid.Row="0" Orientation="Horizontal">
+                <Label FontSize="12" Content="Computer" VerticalAlignment="Center" />
+                <controls:SplitButton Name="PC_RecMode" Width="130" VerticalAlignment="Center" Margin ="5" HorizontalContentAlignment="Left"
+                                       FontSize="12" ItemsSource="{Binding RecordingModeList, ElementName=WindowsMain}" DisplayMemberPath="Disp" SelectedValuePath="Value">
+                    <controls:SplitButton.Icon>
+                        <Rectangle Width="15" Height="15" Fill="White">
+                            <Rectangle.OpacityMask>
+                                <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_laptop}" />
+                            </Rectangle.OpacityMask>
+                        </Rectangle>
+                    </controls:SplitButton.Icon>
+                </controls:SplitButton>
+                <ToggleButton Width="35" Height="35" Click="Toggle_Logger" Name="ToggleButton_Logger"
+                          Style="{DynamicResource MetroCircleToggleButtonStyle}" VerticalAlignment="Center">
+                    <!--Content="}" FontFamily="/Resources/#Entypo" FontSize="50" Foreground="Red" VerticalAlignment="Center" HorizontalAlignment="Center">-->
+                    <Rectangle>
+                        <Rectangle.Style>
+                            <Style TargetType="{x:Type Rectangle}">
+                                <Setter Property="OpacityMask">
+                                    <Setter.Value>
+                                        <VisualBrush Stretch="Uniform" Visual="{StaticResource appbar_moon_full}" />
+                                    </Setter.Value>
+                                </Setter>
+                                <Setter Property="Fill" Value="CornflowerBlue" />
+                                <Setter Property="VerticalAlignment" Value="Center" />
+                                <Setter Property="HorizontalAlignment" Value="Center" />
+                                <Setter Property="Height" Value="15" />
+                                <Setter Property="Width" Value="15" />
+                                <Setter Property="ToolTip" Value="Start Logging" />
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding Path=IsChecked, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type ToggleButton}}}"
+                                             Value="True">
+                                        <Setter Property="OpacityMask">
+                                            <Setter.Value>
+                                                <VisualBrush Stretch="Uniform" Visual="{DynamicResource appbar_control_stop}" />
+                                            </Setter.Value>
+                                        </Setter>
+                                        <Setter Property="Fill"
+                                            Value="{Binding Path=Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type ToggleButton}}}" />
+                                        <Setter Property="VerticalAlignment" Value="Center" />
+                                        <Setter Property="HorizontalAlignment" Value="Center" />
+                                        <Setter Property="Height" Value="13" />
+                                        <Setter Property="Width" Value="13" />
+                                        <Setter Property="ToolTip" Value="Stop Logging" />
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Rectangle.Style>
+                    </Rectangle>
+                </ToggleButton>
+                <Label FontSize="12" Content="Logger" VerticalAlignment="Center" />
+                <controls:SplitButton Name="Logger_RecMode" Width="130" VerticalAlignment="Center" Margin ="5" HorizontalContentAlignment="Left"
+                                       FontSize="12" ItemsSource="{Binding Path=LoggerModeList, ElementName=WindowsMain}" DisplayMemberPath="Disp" SelectedValuePath="Value">
+                    <controls:SplitButton.Icon>
+                        <Rectangle Width="15" Height="15" Fill="White">
+                            <Rectangle.OpacityMask>
+                                <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_brick}" />
+                            </Rectangle.OpacityMask>
+                        </Rectangle>
+                    </controls:SplitButton.Icon>
+                </controls:SplitButton>
+                <ToggleButton IsChecked="{Binding Path=IsAutoStart, ElementName=WindowsMain}" Content="Enable AutoRun" Margin="5" />
+            </StackPanel>
+            <Menu Grid.Row="0" Grid.Column="2" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Right">
+                <MenuItem Click="AutoSetup" IsEnabled="{Binding Path=IsDemo, ElementName=WindowsMain, Converter={StaticResource InverseBooleanConverter}}">
+                    <MenuItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Rectangle Width="15" Height="15"
+                                       Fill="{Binding RelativeSource={RelativeSource AncestorType=Menu}, Path=Foreground}">
+                                <Rectangle.OpacityMask>
+                                    <VisualBrush Stretch="Fill"
+                                                 Visual="{StaticResource appbar_lightning}" />
+                                </Rectangle.OpacityMask>
+                            </Rectangle>
+                            <TextBlock Margin="4 0 0 0" VerticalAlignment="Center" Text="Auto Setup" />
+                        </StackPanel>
+                    </MenuItem.Header>
+                </MenuItem>
+                <MenuItem Click="DeviceReset" IsEnabled="{Binding Path=IsDemo, ElementName=WindowsMain, Converter={StaticResource InverseBooleanConverter}}">
+                    <MenuItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Rectangle Width="15" Height="15"
+                                       Fill="{Binding RelativeSource={RelativeSource AncestorType=Menu}, Path=Foreground}">
+                                <Rectangle.OpacityMask>
+                                    <VisualBrush Stretch="Fill"
+                                                 Visual="{StaticResource appbar_reset}" />
+                                </Rectangle.OpacityMask>
+                            </Rectangle>
+                            <TextBlock Margin="4 0 0 0" VerticalAlignment="Center" Text="Reset" />
+                        </StackPanel>
+                    </MenuItem.Header>
+                </MenuItem>
+                <MenuItem Header="Project">
+                    <!--<MenuItem Header="Open Project">
+                        <MenuItem.Icon>
+                            <Rectangle Width="15" Height="15" Fill="White">
+                                <Rectangle.OpacityMask>
+                                    <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_folder_open}" />
+                                </Rectangle.OpacityMask>
+                            </Rectangle>
+                        </MenuItem.Icon>
+                    </MenuItem>-->
+                    <MenuItem Header="Set Project Folder" Click="SetProjectFolder">
+                        <MenuItem.Icon>
+                            <Rectangle Width="15" Height="15" Fill="White">
+                                <Rectangle.OpacityMask>
+                                    <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_save}" />
+                                </Rectangle.OpacityMask>
+                            </Rectangle>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Header="Setting">
+                    <MenuItem Header="Amplifiers" Click="ShowAmplifierSetting">
+                        <MenuItem.Icon>
+                            <Rectangle Width="15" Height="15" Fill="White">
+                                <Rectangle.OpacityMask>
+                                    <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_medical_pulse}" />
+                                </Rectangle.OpacityMask>
+                            </Rectangle>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Templates">
+                        <MenuItem.Icon>
+                            <Rectangle Width="15" Height="15" Fill="White">
+                                <Rectangle.OpacityMask>
+                                    <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_devcenter}" />
+                                </Rectangle.OpacityMask>
+                            </Rectangle>
+                        </MenuItem.Icon>
+                        <MenuItem Header="Calculate with MATLAB App" Click="OpenMatlabApp"/>
+                        <MenuItem Header="Load Template" Click="LoadTemplate" Tag="{Binding RefreshTemplatesDisplay}" CommandTarget="{Binding ElementName=RootLayout}" />
+                    </MenuItem>
+                    <MenuItem Header="Calibrate ADC" Click="CalibrateADC">
+                    </MenuItem>
+                    <!--<MenuItem Header="Enable AutoStart" Click="Enable_AutoStart">
+                    </MenuItem>
+                    <MenuItem Header="Disable AutoStart" Click="Disable_AutoStart">
+                    </MenuItem>-->
+                    <Separator />
+                    <MenuItem Header="Data Save Setup">
+                        <MenuItem Header="File per Channel" IsCheckable="True"></MenuItem>
+                        <MenuItem Header="File per Board" IsCheckable="True" IsChecked="True"></MenuItem>
+                        <MenuItem Header="Single File" IsCheckable="True"></MenuItem>
+                    </MenuItem>
+                    <Separator />
+                    <MenuItem Header="Preferences" />
+                </MenuItem>
+                <MenuItem Header="Windows">
+                    <MenuItem Header="Add Waveform" Click="AddWaveformPlot" Tag="{Binding AddNewWaveformItem}" CommandTarget="{Binding ElementName=RootLayout}">
+                        <!--<MenuItem.CommandParameter>
+                            <MultiBinding Converter="{StaticResource MultiValueConverter}">
+                                <Binding Path="NewAddressId" ElementName="WindowsMain"/>
+                                <Binding Path="NewChannelId" ElementName="WindowsMain"/>
+                            </MultiBinding>
+                        </MenuItem.CommandParameter>-->
+                        <MenuItem.Icon>
+                            <Rectangle Width="15" Height="15" Fill="White">
+                                <Rectangle.OpacityMask>
+                                    <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_tiles_add}" />
+                                </Rectangle.OpacityMask>
+                            </Rectangle>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Add Spike Plot" Click="AddSpikePlot" Tag="{Binding AddNewSpikePlotItem}" CommandTarget="{Binding ElementName=RootLayout}"/>
+
+                        <Separator/>
+                    <MenuItem Name="TileMenuButton" Header="Tile Grid" Command="{x:Static dockablz:Layout.TileFloatingItemsCommand}" CommandTarget="{Binding ElementName=RootLayout}">
+                        <MenuItem.Icon>
+                            <Rectangle Width="15" Height="15" Fill="White">
+                                <Rectangle.OpacityMask>
+                                    <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_tiles_four}" />
+                                </Rectangle.OpacityMask>
+                            </Rectangle>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Tile Horizontal" Command="{x:Static dockablz:Layout.TileFloatingItemsHorizontallyCommand}" CommandTarget="{Binding ElementName=RootLayout}"/>
+                    <MenuItem Header="Tile Vertical" Command="{x:Static dockablz:Layout.TileFloatingItemsVerticallyCommand}" CommandTarget="{Binding ElementName=RootLayout}" />
+                    <Separator/>
+                    <MenuItem Header="Close All" Command="{Binding ClearWaveformItem}" CommandTarget="{Binding ElementName=RootLayout}">
+                        <MenuItem.Icon>
+                            <Rectangle Width="15" Height="15" Fill="White">
+                                <Rectangle.OpacityMask>
+                                    <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_app_remove}" />
+                                </Rectangle.OpacityMask>
+                            </Rectangle>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Header="Test WiFi" Click="WifiTESTButton">
+                    
+                </MenuItem>
+            </Menu>
+
+            <!--<dockablz:Layout x:Name="MdiLayout" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="6"
+                    FloatingItemHeaderMemberPath="Header"
+                    FloatingItemDisplayMemberPath="Content" FloatingItemContainerStyle="{DynamicResource MahAppsToolDragablzItemStyle}">-->
+
+            <dockablz:Layout Partition="2AE89D18-F236-4D20-9605-6C03319038E6" Name="RootLayout"
+                     Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3"
+                     FloatingItemsSource="{Binding WaveformItems}"
+                     FloatingItemHeaderMemberPath="Header"
+                     IsFloatDropZoneEnabled="True"
+                     ClosingFloatingItemCallback="{Binding ClosingFloatingItemHandler}"
+                     FloatingItemContainerStyle="{DynamicResource DataPlotterFloatingItemStyle }">
+                <!--<dockablz:Layout.FloatingItems>
+                    <dragablz:HeaderedItemViewModel Header="Tool Window" Content="Tool window shich is also themed!" />
+                    <dragablz:HeaderedItemViewModel Header="One" Content="MDI Child One"  />
+                    <dragablz:HeaderedItemViewModel Header="Two" Content="MDI Child Two" />
+                    <dragablz:HeaderedItemViewModel Header="Three" Content="MDI Child Three" />
+                </dockablz:Layout.FloatingItems>-->
+                <!-- branch template lets dragablz create a new tab control after a window is split via docking -->
+                <dockablz:Layout.BranchTemplate>
+                    <DataTemplate>
+                        <dragablz:TabablzControl Style="{StaticResource TabablzControlStyle}" DataContext="{Binding XPath=(usbridgeWpf:BoundExampleModel)}">
+                            <dragablz:TabablzControl.InterTabController>
+                                <dragablz:InterTabController InterTabClient="{Binding Path=(usbridgeWpf:BoundExampleModel.InterTabClient)}" Partition="2AE89D18-F236-4D20-9605-6C03319038E6" />
+                            </dragablz:TabablzControl.InterTabController>
+                        </dragablz:TabablzControl>
+                    </DataTemplate>
+                </dockablz:Layout.BranchTemplate>
+                <!-- a root, named tab control is needed, so when a tab is torn and a new window is created, the new target tab control can be identified -->
+                <dragablz:TabablzControl Style="{StaticResource TabablzControlStyle}">
+                    <dragablz:TabablzControl.InterTabController>
+                        <dragablz:InterTabController InterTabClient="{Binding InterTabClient}" Partition="2AE89D18-F236-4D20-9605-6C03319038E6" />
+                    </dragablz:TabablzControl.InterTabController>
+                </dragablz:TabablzControl>
+            </dockablz:Layout>
+
+            <!--<Button Grid.Column="0" x:Name="Btn_Rst" Content="Reset" Margin="5" VerticalAlignment="Center"
+                Click="Btn_RST_Click"
+                IsEnabled="{Binding Path=(local:MainWindow.IsStreaming), Converter={StaticResource InverseBooleanConverter}, Mode=OneWay}" />-->
+            <!--<Button Grid.Row="0" Grid.Column="1" x:Name="Btn_Cfg" Content="Configure" Margin="5" VerticalAlignment="Center"
+                Click="Btn_CFG_Click"
+                IsEnabled="{Binding Path=(local:MainWindow.IsStreaming), Converter={StaticResource InverseBooleanConverter}, Mode=OneWay}" />
+        <Button Grid.Row="0" Grid.Column="2" x:Name="Btn_ModeToggle" Content="Toggle Mode" Margin="5"
+                VerticalAlignment="Center" Click="Btn_ModeToggle_Click"
+                IsEnabled="{Binding Path=(local:MainWindow.IsStreaming), Converter={StaticResource InverseBooleanConverter}, Mode=OneWay}" />
+        <Button Grid.Row="0" Grid.Column="3" x:Name="Btn_Start" Content="Start" Margin="5" VerticalAlignment="Center"
+                Click="Btn_Start_Click"
+                IsEnabled="{Binding Path=(local:MainWindow.IsStreaming), Converter={StaticResource InverseBooleanConverter}, Mode=OneWay}" />
+        <Button Grid.Row="0" Grid.Column="4" x:Name="Btn_Stop" Content="Stop" Margin="5" VerticalAlignment="Center"
+                Click="Btn_Stop_Click" IsEnabled="{Binding Path=(local:MainWindow.IsStreaming), Mode=OneWay}" />
+        <Button Grid.Row="0" Grid.Column="5" x:Name="Btn_ViewResults" Content="Live View" Margin="5"
+                VerticalAlignment="Center" Click="Btn_ViewResults_Click" />-->
+            <!--<ComboBox Grid.Column="2" Grid.Row="1" Margin="5" VerticalAlignment="Center" 
+                      SelectedItem="{Binding Path=(usbridgeWpf:MainWindow.FileSaveMode), ElementName=WindowsMain}"
+                      ItemsSource="{Binding Source={StaticResource Savemode}, Mode=OneTime}"
+                      SelectionChanged="ComboBox_SelectionChanged"
+                      IsEnabled="{Binding Path=(usbridgeWpf:MainWindow.IsStreaming), Converter={StaticResource InverseBooleanConverter}, Mode=OneWay}" Visibility="Hidden" />
+            <TextBox Grid.Column="3" Grid.Row="1" x:Name="FilePath" TextWrapping="NoWrap" VerticalAlignment="Center"
+                     IsEnabled="{Binding Path=(usbridgeWpf:MainWindow.IsSaveResults), ElementName=WindowsMain}"
+                     Grid.ColumnSpan="2" LostFocus="CheckFileInput" Visibility="Hidden"/>
+
+            <TreeView Grid.Row="1" Grid.Column="4" Visibility="Hidden" Height="155" VerticalAlignment="Top"
+                      Margin="10,10,10,0" x:Name="DeviceTree" />
+            <Button Grid.Row="1" Grid.Column="5" x:Name="Btn_SaveFile" Content="Browse" Margin="5"
+                    Click="Btn_SaveFile_Click"
+                    IsEnabled="{Binding Path=(usbridgeWpf:MainWindow.IsSaveResults), ElementName=WindowsMain}"
+                    VerticalAlignment="Center" Visibility="Hidden"/>-->
+            <StatusBar Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" VerticalAlignment="Center">
+                <StatusBarItem>Version:</StatusBarItem>
+                <StatusBarItem x:Name="VersionNumber" />
+                <Separator Style="{DynamicResource MetroStatusBarSeparator}" />
+                <StatusBarItem>Mode:</StatusBarItem>
+                <StatusBarItem x:Name="DeviceMode" />
+                <Separator Style="{DynamicResource MetroStatusBarSeparator}" />
+                <StatusBarItem >Device:</StatusBarItem>
+                <StatusBarItem x:Name="DeviceStatus" />
+            </StatusBar>
+        </Grid>
+    </controls:MetroContentControl>
+
+    <controls:MetroWindow.Flyouts>
+        <controls:FlyoutsControl>
+            <controls:Flyout Header="Amplifier Settings" Position="Right" x:Name="FlyoutAmpSetting" IsOpenChanged="FlyoutAmpSetting_OnIsOpenChanged">
+                <usbridgeWpf:AmplifierSettings />
+            </controls:Flyout>
+        </controls:FlyoutsControl>
+    </controls:MetroWindow.Flyouts>
+    
+</controls:MetroWindow>
+ 

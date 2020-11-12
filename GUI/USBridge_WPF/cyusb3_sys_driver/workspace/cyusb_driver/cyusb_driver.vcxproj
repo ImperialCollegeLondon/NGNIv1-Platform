@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{DE4526BB-8243-4F22-8894-A435D3F0DA42}</ProjectGuid>
+    <RootNamespace>cyusb_driver</RootNamespace>
+    <Keyword>MakeFileProj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>12.0.30501.0</_ProjectFileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <NMakeBuildCommandLine />
+    <NMakeReBuildCommandLine />
+    <NMakeCleanCommandLine />
+    <NMakeOutput />
+    <NMakePreprocessorDefinitions>WIN32;_DEBUG;$(NMakePreprocessorDefinitions)</NMakePreprocessorDefinitions>
+    <NMakeIncludeSearchPath>C:\WinDDK\7600.16385.0\inc;C:\WinDDK\7600.16385.0\inc\wdf\kmdf\1.9;C:\WinDDK\7600.16385.0\inc\ddk;$(NMakeIncludeSearchPath)</NMakeIncludeSearchPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <NMakeBuildCommandLine />
+    <NMakeReBuildCommandLine />
+    <NMakeCleanCommandLine />
+    <NMakeOutput />
+    <NMakePreprocessorDefinitions>WIN32;NDEBUG;$(NMakePreprocessorDefinitions)</NMakePreprocessorDefinitions>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\cydevice.c" />
+    <ClCompile Include="..\..\src\cyentry.c" />
+    <ClCompile Include="..\..\src\cyfileio.c" />
+    <ClCompile Include="..\..\src\cyinterruptep.c" />
+    <ClCompile Include="..\..\src\cyio.c" />
+    <ClCompile Include="..\..\src\cyioctl.c" />
+    <ClCompile Include="..\..\src\cyiso.c" />
+    <ClCompile Include="..\..\src\cypnppower.c" />
+    <ClCompile Include="..\..\src\cyscript.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\inc\cydef.h" />
+    <ClInclude Include="..\..\inc\cydevice.h" />
+    <ClInclude Include="..\..\inc\cyentry.h" />
+    <ClInclude Include="..\..\inc\cyfileio.h" />
+    <ClInclude Include="..\..\inc\cyguid.h" />
+    <ClInclude Include="..\..\inc\cyinterruptep.h" />
+    <ClInclude Include="..\..\inc\cyio.h" />
+    <ClInclude Include="..\..\inc\cyioctl.h" />
+    <ClInclude Include="..\..\inc\cyiso.h" />
+    <ClInclude Include="..\..\inc\cypnppower.h" />
+    <ClInclude Include="..\..\inc\cyscript.h" />
+    <ClInclude Include="..\..\inc\cytrace.h" />
+    <ClInclude Include="..\..\inc\CyUSB30_def.h" />
+    <ClInclude Include="..\..\inc\cyusbdef.h" />
+    <ClInclude Include="..\..\inc\cyusbif.h" />
+    <ClInclude Include="..\..\inc\cyusbver.h" />
+    <ClInclude Include="..\..\inc\resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="..\..\src\cyusb.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\src\makefile" />
+    <None Include="..\..\src\makefile.inc" />
+    <None Include="..\..\src\resource" />
+    <None Include="..\..\src\sources" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="readme.txt" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

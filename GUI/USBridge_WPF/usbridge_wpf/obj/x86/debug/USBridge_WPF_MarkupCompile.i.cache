@@ -1,0 +1,20 @@
+﻿USBridge_WPF
+
+
+winexe
+C#
+.cs
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\obj\x86\Debug\
+USBridge_WPF
+none
+false
+TRACE;DEBUG;V1
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\USBridge_WPF\App.xaml
+111035034674
+2-1171064124
+321271759132
+921837430900
+AmplifierSettings.xaml;Resources\Icons.xaml;Resources\IconsNonShared.xaml;SpikeScopeView.xaml;WaveformScopeView.xaml;DataPlotterHeader.xaml;Dragablz\BoundExampleWindow.xaml;MainWindow.xaml;Realtime_Results.xaml;Resources\Steel_mod.xaml;SelectPlotChannelDiag.xaml;
+
+True
+

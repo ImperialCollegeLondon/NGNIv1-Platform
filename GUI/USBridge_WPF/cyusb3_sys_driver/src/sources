@@ -1,0 +1,62 @@
+TARGETNAME=cyusb3
+TARGETTYPE=DRIVER
+
+
+KMDF_VERSION_MAJOR=1
+INF_NAME=cyusb3
+
+NTTARGETFILES=$(OBJ_PATH)\$(O)\$(INF_NAME).inf
+
+
+MISCFILES=$(NTTARGETFILES)
+
+
+
+C_DEFINES= $(C_DEFINES) -DWIN7_DDK 
+#-DBUFFERED_READ_WRITE=1
+
+INCLUDES=$(INCLUDES);..\..\inc            
+
+TARGETLIBS=$(TARGETLIBS) $(DDK_LIB_PATH)\usbd.lib
+
+
+SOURCES=cyentry.c\
+		cydevice.c\
+		cyio.c\
+		cypnppower.c\
+		cyioctl.c\
+		cyinterruptep.c\
+		cyiso.c\
+		cyfileio.c\
+		cyscript.c\
+		cyusb.rc		
+		
+#
+# Comment the below line to disable tracing. All the debug traces
+# will be sent to the kernel-debugger.
+# ENABLE_EVENT_TRACING=1
+
+!IFDEF ENABLE_EVENT_TRACING
+
+C_DEFINES = $(C_DEFINES) -DEVENT_TRACING 
+
+#
+# Generate WPP tracing code
+# $(SOURCES)   -- run software preprocessor on files listed in SOURCES
+# -km          -- use kernel mode
+# -func        -- define function we'll use for tracing
+#                 This would map all TraceEvents calls to 
+#                 DoTraceMessage.
+#
+RUN_WPP= $(SOURCES)                             \
+         -km                                    \
+         -func:CyTraceEvents(LEVEL,FLAGS,MSG,...) \
+         -gen:{km-WdfDefault.tpl}*.tmh       
+!ENDIF
+
+
+TARGET_DESTINATION=wdf
+
+# Temporarily excuse usage of serviceability impairing macros in code...
+ALLOW_DATE_TIME=1
+

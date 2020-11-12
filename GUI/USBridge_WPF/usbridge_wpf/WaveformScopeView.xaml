@@ -1,0 +1,145 @@
+﻿<UserControl x:Class="USBridge_WPF.WaveformScopeView"
+             xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:xcdg="http://schemas.xceed.com/wpf/xaml/datagrid"
+             xmlns:wpf="clr-namespace:SharpDX.WPF;assembly=SharpDX.WPF"
+             xmlns:local="clr-namespace:USBridge_WPF"
+             xmlns:dragablz="clr-namespace:Dragablz;assembly=Dragablz"
+             mc:Ignorable="d"
+             x:Name="DataPlotterUc"
+             d:DesignHeight="100" d:DesignWidth="750"
+             Width="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=ActualWidth, Mode=OneWay}"
+             Height="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=ActualHeight, Converter={StaticResource DeductMarginConverter}, Mode=OneWay}"
+             DataContext="{Binding RelativeSource={RelativeSource Self}}"
+             SizeChanged="ScopeSizeChanged">
+
+    <UserControl.Resources>
+        <xcdg:InverseBooleanConverter x:Key="InverseBooleanConverter" />
+    </UserControl.Resources>
+    <!--<Grid DockPanel.Dock="Bottom" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="{Binding Path=(local:SizeObserver.ObservedHeight), Converter={StaticResource DeductMarginConverter}, Mode=OneWay}" />
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>-->
+    <DockPanel LastChildFill="True">
+        <!--<wpf:DXElement x:Name="Plotter2D" Grid.Row="0" 
+                               MaxWidth="{Binding Path=Width, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type Grid}}}"
+                               MaxHeight="{Binding Path=Height, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type Grid}}}" />-->
+        <!--<Canvas x:Name="PlotterAxis" Background="IndianRed" Grid.Row="0">
+                    <Canvas.CacheMode>
+                        <BitmapCache EnableClearType="False" RenderAtScale="1.0" />
+                    </Canvas.CacheMode>
+                </Canvas>-->
+        <!--<TextBlock 
+			HorizontalAlignment="Right" VerticalAlignment="Top"
+			Foreground="Red"
+			Text="{Binding FPS.Value, StringFormat='{}D3D10 - {0:0.00} FPS', ElementName=root}"
+            Grid.Column="2"/>-->
+        <!--<ItemsControl Margin="0,10,3,0" VerticalAlignment="Stretch" HorizontalAlignment="Right"
+                          Name="ChannelLabelList"
+                          Grid.Column="0" Grid.Row="0" Height="AUTO" ItemsSource="{Binding ChannelLabel}">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <UniformGrid HorizontalAlignment="Right" VerticalAlignment="Top" Rows="32" />
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Border BorderThickness="0" BorderBrush="Black" Margin="0"
+                                Height="{Binding Height, Mode=OneTime}"
+                                VerticalAlignment="Center">
+                            -->
+        <!--<TextBlock FontFamily="MyriaPro" FontSize="11" VerticalAlignment="Bottom" Height="21.9" HorizontalAlignment="Right" Text="{Binding}" />-->
+        <!--
+                            <TextBlock FontFamily="MyriaPro" FontSize="11" VerticalAlignment="Center"
+                                       HorizontalAlignment="Right"
+                                       Text="{Binding Path=ChannelNum, StringFormat=Channel {0}, Mode=OneTime}" />
+                        </Border>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>-->
+        <!--<StackPanel DockPanel.Dock="Left" HorizontalAlignment="Left" Margin="2,2,5,0" Visibility="Hidden">
+            --><!--<Button Content="actual dim" Click="ButtonBase_Onclick"></Button>--><!--
+
+            <ComboBox Name="DisplayAddrBox" Width="90" ScrollViewer.CanContentScroll="True" AllowDrop="True"
+                      VerticalAlignment="Center" VerticalContentAlignment="Center" FontSize="10"
+                      ItemsSource="{Binding Path=(local:MainWindow.ActiveDeviceAddressList)}"
+                      SelectedValue="{Binding Path=DisplayAddr}" SelectedValuePath="Value"
+                      DisplayMemberPath="Disp" />
+            <ComboBox Name="DisplayChIdBox" Width="90" ScrollViewer.CanContentScroll="True" AllowDrop="True"
+                      VerticalAlignment="Center" VerticalContentAlignment="Center" FontSize="10"
+                      ItemsSource="{Binding Path=ActiveChannelList}"
+                      SelectedValue="{Binding Path=DisplayChId}" SelectedValuePath="Value"
+                      DisplayMemberPath="Disp" />
+            <ComboBox Name="TimeSpanBox" Width="90" ScrollViewer.CanContentScroll="True" AllowDrop="True"
+                      VerticalAlignment="Center" VerticalContentAlignment="Center" FontSize="10"
+                      ItemsSource="{Binding Path=TimeSpanList}"
+                      SelectedValue="{Binding Path=TimeSpan}" SelectedValuePath="Value"
+                      DisplayMemberPath="Disp" />
+            <ComboBox Name="VoltageRangeBox" Width="90" ScrollViewer.CanContentScroll="True" AllowDrop="True"
+                      VerticalAlignment="Center" VerticalContentAlignment="Center" FontSize="10"
+                      ItemsSource="{Binding Path=VoltageRangeList}"
+                      SelectedValue="{Binding Path=VoltageRange}" SelectedValuePath="Value"
+                      DisplayMemberPath="Disp"
+                      IsEnabled="{Binding Path=(local:MainWindow.IsSpikeSorting), Converter={StaticResource InverseBooleanConverter}, Mode=OneWay}">
+            </ComboBox>
+        </StackPanel>-->
+        <!--<Canvas x:Name="TestCanvas" Background="Red" DockPanel.Dock="Bottom" />-->
+        <Grid DockPanel.Dock="Right">
+            <!--<Grid.RowDefinitions>
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="4*" />
+            </Grid.RowDefinitions>-->
+            <!--<wpf:DXElement x:Name="Plotter2D_spike" Grid.Row="0"/>-->
+            <wpf:DXElement x:Name="Plotter2D" Grid.Row="0"/>
+            <Canvas x:Name="PlotterAxis" Background="Transparent" Grid.Row="0">
+                <Canvas.CacheMode>
+                    <BitmapCache EnableClearType="False" RenderAtScale="1.0" />
+                </Canvas.CacheMode>
+            </Canvas>
+            <StackPanel Orientation="Horizontal" Margin="2" VerticalAlignment="Bottom" HorizontalAlignment="Right" Grid.Row="0">
+                <ComboBox Name="TimeSpanBox" Width="90" BorderThickness="0" ScrollViewer.CanContentScroll="True" AllowDrop="True" Background="Transparent"
+                                  VerticalAlignment="Center" VerticalContentAlignment="Center" FontSize="10"
+                                  ItemsSource="{Binding Path=TimeSpanList}"
+                                  SelectedValue="{Binding Path=TimeSpan}" SelectedValuePath="Value"
+                                  DisplayMemberPath="Disp"/>
+                <ComboBox Name="VoltageRangeBox" Width="90" BorderThickness="0" ScrollViewer.CanContentScroll="True"
+                                  AllowDrop="True" Background="Transparent"
+                                  VerticalAlignment="Center" VerticalContentAlignment="Center" FontSize="10"
+                                  ItemsSource="{Binding Path=VoltageRangeList}"
+                                  SelectedValue="{Binding Path=VoltageRange}" SelectedValuePath="Value"
+                                  DisplayMemberPath="Disp"
+                                  IsEnabled="{Binding Path=(local:MainWindow.IsSpikeSorting), Converter={StaticResource InverseBooleanConverter}, Mode=OneWay}" />
+
+                <!--<TextBlock x:Name="DispTimeDiv" FontSize="8" Text="{Binding Path=Text, ElementName=TimeSpanBox}"/>
+                <TextBlock x:Name="DispVoltageDiv" FontSize="8" Text="{Binding Path=Text, ElementName=VoltageRangeBox}"/>-->   
+            </StackPanel>
+            <!--<Grid.ContextMenu>
+                <ContextMenu FontSize="10">
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Time Span" />
+                        <ComboBox Name="TimeSpanBox" Width="90" ScrollViewer.CanContentScroll="True" AllowDrop="True"
+                                  VerticalAlignment="Center" VerticalContentAlignment="Center" FontSize="10"
+                                  ItemsSource="{Binding Path=TimeSpanList}"
+                                  SelectedValue="{Binding Path=TimeSpan}" SelectedValuePath="Value"
+                                  DisplayMemberPath="Disp"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Voltage Range"></Label>
+                        <ComboBox Name="VoltageRangeBox" Width="90" ScrollViewer.CanContentScroll="True"
+                                  AllowDrop="True"
+                                  VerticalAlignment="Center" VerticalContentAlignment="Center" FontSize="10"
+                                  ItemsSource="{Binding Path=VoltageRangeList}"
+                                  SelectedValue="{Binding Path=VoltageRange}" SelectedValuePath="Value"
+                                  DisplayMemberPath="Disp"
+                                  IsEnabled="{Binding Path=(local:MainWindow.IsSpikeSorting), Converter={StaticResource InverseBooleanConverter}, Mode=OneWay}" />
+                    </StackPanel>
+                </ContextMenu>
+            </Grid.ContextMenu>-->
+        </Grid>
+    </DockPanel>
+    <!--</Grid>-->
+</UserControl>

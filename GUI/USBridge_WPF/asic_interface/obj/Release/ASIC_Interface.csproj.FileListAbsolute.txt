@@ -1,0 +1,7 @@
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\bin\Release\ASIC_Interface.dll
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\bin\Release\ASIC_Interface.pdb
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\bin\Release\System.Threading.Tasks.Dataflow.dll
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\bin\Release\System.Threading.Tasks.Dataflow.xml
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\obj\Release\ASIC_Interface.csprojResolveAssemblyReference.cache
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\obj\Release\ASIC_Interface.dll
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\obj\Release\ASIC_Interface.pdb

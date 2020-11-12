@@ -1,0 +1,98 @@
+C:\Users\sl709\Desktop\Dragablz-master\bin\Debug_net45\Dragablz.XML
+C:\Users\sl709\Desktop\Dragablz-master\bin\Debug_net45\Dragablz.dll
+C:\Users\sl709\Desktop\Dragablz-master\bin\Debug_net45\Dragablz.pdb
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Dragablz_MarkupCompile.cache
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Dragablz_MarkupCompile.lref
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Themes\Dockablz.baml
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Themes\Generic.baml
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Themes\MahApps.baml
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Themes\MaterialDesign.baml
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Dragablz.g.resources
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Dragablz.Properties.Resources.resources
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Dragablz.net45.csproj.GenerateResource.Cache
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Dragablz.dll
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Dragablz.pdb
+C:\Users\sl709\Desktop\Dragablz-master\bin\Debug_net45\Dragablz.dll.CodeAnalysisLog.xml
+C:\Users\sl709\Desktop\Dragablz-master\bin\Debug_net45\Dragablz.dll.lastcodeanalysissucceeded
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\bin\Debug_net45\Dragablz.XML
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\bin\Debug_net45\Dragablz.dll
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\bin\Debug_net45\Dragablz.pdb
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.net45.csprojResolveAssemblyReference.cache
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Dragablz_MarkupCompile.cache
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Dragablz_MarkupCompile.lref
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Themes\Dockablz.baml
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Themes\Generic.baml
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Themes\MahApps.baml
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Themes\MaterialDesign.baml
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.g.resources
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.Properties.Resources.resources
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.net45.csproj.GenerateResource.Cache
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.dll
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.pdb
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\bin\Debug_net45\Dragablz.XML
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\bin\Debug_net45\Dragablz.dll
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\bin\Debug_net45\Dragablz.pdb
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.net45.csprojResolveAssemblyReference.cache
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Dragablz_MarkupCompile.cache
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Dragablz_MarkupCompile.lref
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Themes\Dockablz.baml
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Themes\Generic.baml
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Themes\MahApps.baml
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Themes\MaterialDesign.baml
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.g.resources
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.Properties.Resources.resources
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.net45.csproj.GenerateResource.Cache
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.dll
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.pdb
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\bin\Debug_net45\Dragablz.XML
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\bin\Debug_net45\Dragablz.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\bin\Debug_net45\Dragablz.pdb
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.net45.csprojResolveAssemblyReference.cache
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Dragablz_MarkupCompile.cache
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Dragablz_MarkupCompile.lref
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Themes\Dockablz.baml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Themes\Generic.baml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Themes\MahApps.baml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Themes\MaterialDesign.baml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.g.resources
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.Properties.Resources.resources
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.net45.csproj.GenerateResource.Cache
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.pdb
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\bin\Debug_net45\Dragablz.XML
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\bin\Debug_net45\Dragablz.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\bin\Debug_net45\Dragablz.pdb
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.net45.csprojResolveAssemblyReference.cache
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Dragablz_MarkupCompile.cache
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Dragablz_MarkupCompile.lref
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Themes\Dockablz.baml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Themes\Generic.baml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Themes\MahApps.baml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Themes\MaterialDesign.baml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.g.resources
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.Properties.Resources.resources
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.net45.csproj.GenerateResource.Cache
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Debug\Dragablz.pdb
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\bin\Debug_net45\Dragablz.XML
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\bin\Debug_net45\Dragablz.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\bin\Debug_net45\Dragablz.pdb
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Debug\Dragablz.net45.csprojAssemblyReference.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Debug\Dragablz_MarkupCompile.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Debug\Dragablz_MarkupCompile.lref
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Debug\Themes\Dockablz.baml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Debug\Themes\Generic.baml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Debug\Themes\MahApps.baml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Debug\Themes\MaterialDesign.baml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Debug\Dragablz.g.resources
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Debug\Dragablz.Properties.Resources.resources
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Debug\Dragablz.net45.csproj.GenerateResource.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Debug\Dragablz.net45.csproj.CoreCompileInputs.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Debug\Dragablz.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Debug\Dragablz.pdb

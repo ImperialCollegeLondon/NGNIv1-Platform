@@ -1,0 +1,85 @@
+﻿<controls:MetroWindow
+    x:Class="USBridge_WPF.BoundExampleWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:dockablz="clr-namespace:Dragablz.Dockablz;assembly=Dragablz"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:usBridgeWpf="clr-namespace:USBridge_WPF"
+    xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+    xmlns:dragablz="clr-namespace:Dragablz;assembly=Dragablz"
+    mc:Ignorable="d"
+    Title="USBridge" ResizeMode="CanResizeWithGrip" Topmost="False"
+    GlowBrush="{DynamicResource AccentColorBrush}" ShowIconOnTitleBar="False"
+    d:DataContext="{d:DesignInstance usBridgeWpf:BoundExampleModel, IsDesignTimeCreatable=False}">
+    <!--<Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/Dragablz;component/Themes/Generic.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+            <DataTemplate DataType="{x:Type dragablz:HeaderedItemViewModel}">
+                <ContentControl Content="{Binding Content}" Margin="4 4 4 4" FontSize="14" />
+            </DataTemplate>
+            <dragablz:InterTabController x:Key="InterTabController" x:Shared="False" InterTabClient="{Binding InterTabClient}" Partition="2AE89D18-F236-4D20-9605-6C03319038E6" />
+
+            --><!--<dragablz:DragablzIcon Width="24" Height="24" Margin="0 -8 0 0"
+                                   x:Key="WindowIcon" x:Shared="False"
+                                   ToolTip="Added via the HeaderPrefixContent property"
+                                   />--><!--
+
+            <Style TargetType="{x:Type dragablz:TabablzControl}" x:Key="TabablzControlStyle">
+                <Setter Property="NewItemFactory" Value="{x:Static usBridgeWpf:BoundExampleNewItem.Factory}" />
+                <Setter Property="ItemsSource" Value="{Binding Items}" />
+                <Setter Property="ClosingItemCallback" Value="{Binding ClosingTabItemHandler}" />
+                <Setter Property="ShowDefaultAddButton" Value="True" />
+                <Setter Property="ShowDefaultCloseButton" Value="True" />
+                <Setter Property="AdjacentHeaderItemOffset" Value="-10" />
+                <Setter Property="ItemContainerStyle" Value="{StaticResource TrapezoidDragableTabItemStyle}" />
+                <Setter Property="HeaderMemberPath" Value="Header" />
+                <Setter Property="InterTabController" Value="{StaticResource InterTabController}" />
+                --><!--<Setter Property="HeaderPrefixContent" Value="{StaticResource WindowIcon}" />--><!--
+                <Setter Property="Margin" Value="0 8 0 0" />
+            </Style>
+        </ResourceDictionary>
+    </Window.Resources>-->
+    <controls:MetroWindow.LeftWindowCommands>
+        <controls:WindowCommands>
+            <Button
+                ToolTip="Developed by CBiT @ Imperial College London">
+                <Rectangle Width="25"
+                           Height="25"
+                           Fill="{Binding RelativeSource={RelativeSource AncestorType=Button}, Path=Foreground}">
+                    <Rectangle.OpacityMask>
+                        <VisualBrush Stretch="Uniform" Visual="{StaticResource appbar_devcenter}" />
+                    </Rectangle.OpacityMask>
+                </Rectangle>
+            </Button>
+        </controls:WindowCommands>
+    </controls:MetroWindow.LeftWindowCommands>
+    <controls:MetroContentControl>
+
+        <dockablz:Layout Partition="2AE89D18-F236-4D20-9605-6C03319038E6"
+                     FloatingItemsSource="{Binding WaveformItems}"
+                     FloatingItemHeaderMemberPath="Header"
+                     IsFloatDropZoneEnabled="True"
+                     ClosingFloatingItemCallback="{Binding ClosingFloatingItemHandler}"
+                     FloatingItemContainerStyle="{DynamicResource DataPlotterFloatingItemStyle}">
+        <!-- branch template lets dragablz create a new tab control after a window is split via docking -->
+        <dockablz:Layout.BranchTemplate>
+            <DataTemplate>
+                <dragablz:TabablzControl Style="{StaticResource TabablzControlStyle}" DataContext="{Binding XPath=(usbridgeWpf:BoundExampleModel)}">
+                    <dragablz:TabablzControl.InterTabController>
+                        <dragablz:InterTabController InterTabClient="{Binding InterTabClient}" Partition="2AE89D18-F236-4D20-9605-6C03319038E6" />
+                    </dragablz:TabablzControl.InterTabController>
+                </dragablz:TabablzControl>
+            </DataTemplate>
+        </dockablz:Layout.BranchTemplate>
+        <!-- a root, named tab control is needed, so when a tab is torn and a new window is created, the new target tab control can be identified -->
+            <dragablz:TabablzControl x:Name="InitialTabablzControl" Style="{StaticResource TabablzControlStyle}" AddLocationHint="After">
+            <dragablz:TabablzControl.InterTabController>
+                <dragablz:InterTabController InterTabClient="{Binding InterTabClient}" Partition="2AE89D18-F236-4D20-9605-6C03319038E6" />
+            </dragablz:TabablzControl.InterTabController>
+        </dragablz:TabablzControl>
+    </dockablz:Layout>
+</controls:MetroContentControl>
+</controls:MetroWindow>

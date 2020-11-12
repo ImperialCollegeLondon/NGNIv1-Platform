@@ -1,0 +1,16 @@
+C:\Users\sl709\Desktop\Dragablz-master\bin\Debug_net40\Dragablz.XML
+C:\Users\sl709\Desktop\Dragablz-master\bin\Debug_net40\Dragablz.dll
+C:\Users\sl709\Desktop\Dragablz-master\bin\Debug_net40\Dragablz.pdb
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Dragablz.net40.csprojResolveAssemblyReference.cache
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Dragablz_MarkupCompile.cache
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Dragablz_MarkupCompile.lref
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Themes\Dockablz.baml
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Themes\Generic.baml
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Themes\MahApps.baml
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Themes\MaterialDesign.baml
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Dragablz.g.resources
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Dragablz.dll
+C:\Users\sl709\Desktop\Dragablz-master\Dragablz\obj\Debug\Dragablz.pdb
+C:\Users\sl709\Desktop\Dragablz-master\bin\Debug_net40\Dragablz.dll.CodeAnalysisLog.xml
+C:\Users\sl709\Desktop\Dragablz-master\bin\Debug_net40\Dragablz.dll.lastcodeanalysissucceeded

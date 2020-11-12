@@ -1,0 +1,6 @@
+D:\visual studio 2013\Projects\USBridge_WPF\INTAN_RHD2000\bin\Debug\INTAN_RHD2000.dll
+D:\visual studio 2013\Projects\USBridge_WPF\INTAN_RHD2000\bin\Debug\INTAN_RHD2000.pdb
+D:\visual studio 2013\Projects\USBridge_WPF\INTAN_RHD2000\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\visual studio 2013\Projects\USBridge_WPF\INTAN_RHD2000\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\visual studio 2013\Projects\USBridge_WPF\INTAN_RHD2000\obj\Debug\INTAN_RHD2000.dll
+D:\visual studio 2013\Projects\USBridge_WPF\INTAN_RHD2000\obj\Debug\INTAN_RHD2000.pdb

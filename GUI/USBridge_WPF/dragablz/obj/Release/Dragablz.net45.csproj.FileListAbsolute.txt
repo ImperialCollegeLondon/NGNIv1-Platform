@@ -1,0 +1,49 @@
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\bin\Release_net45\Dragablz.XML
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\bin\Release_net45\Dragablz.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\bin\Release_net45\Dragablz.pdb
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Dragablz.net45.csprojResolveAssemblyReference.cache
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Dragablz_MarkupCompile.cache
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Dragablz_MarkupCompile.lref
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Themes\Dockablz.baml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Themes\Generic.baml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Themes\MahApps.baml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Themes\MaterialDesign.baml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Dragablz.g.resources
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Dragablz.Properties.Resources.resources
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Dragablz.net45.csproj.GenerateResource.Cache
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Dragablz.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Dragablz.pdb
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\bin\Release_net45\Dragablz.XML
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\bin\Release_net45\Dragablz.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\bin\Release_net45\Dragablz.pdb
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Dragablz.net45.csprojResolveAssemblyReference.cache
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Dragablz_MarkupCompile.cache
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Dragablz_MarkupCompile.lref
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Themes\Dockablz.baml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Themes\Generic.baml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Themes\MahApps.baml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Themes\MaterialDesign.baml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Dragablz.g.resources
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Dragablz.Properties.Resources.resources
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Dragablz.net45.csproj.GenerateResource.Cache
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Dragablz.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Dragablz\obj\Release\Dragablz.pdb
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\bin\Release_net45\Dragablz.XML
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\bin\Release_net45\Dragablz.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\bin\Release_net45\Dragablz.pdb
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Release\Dragablz.net45.csprojAssemblyReference.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Release\Dragablz_MarkupCompile.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Release\Dragablz_MarkupCompile.lref
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Release\Themes\Dockablz.baml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Release\Themes\Generic.baml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Release\Themes\MahApps.baml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Release\Themes\MaterialDesign.baml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Release\Dragablz.g.resources
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Release\Dragablz.Properties.Resources.resources
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Release\Dragablz.net45.csproj.GenerateResource.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Release\Dragablz.net45.csproj.CoreCompileInputs.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Release\Dragablz.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Dragablz\obj\Release\Dragablz.pdb

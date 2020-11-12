@@ -1,0 +1,52 @@
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\bin\x86\Release\ASIC_Interface.dll
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\bin\x86\Release\ASIC_Interface.pdb
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\bin\x86\Release\CyUSB.dll
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\bin\x86\Release\System.Threading.Tasks.Dataflow.xml
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.csprojResolveAssemblyReference.cache
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.Properties.Resources.resources
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.csproj.GenerateResource.Cache
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.dll
+D:\visual studio 2013\Projects\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.pdb
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\ASIC_Interface\bin\x86\Release\ASIC_Interface.dll
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\ASIC_Interface\bin\x86\Release\ASIC_Interface.pdb
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\ASIC_Interface\bin\x86\Release\CyUSB.dll
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\ASIC_Interface\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\ASIC_Interface\bin\x86\Release\System.Threading.Tasks.Dataflow.xml
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.csprojResolveAssemblyReference.cache
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.Properties.Resources.resources
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.csproj.GenerateResource.Cache
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.dll
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.pdb
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\ASIC_Interface\bin\x86\Release\ASIC_Interface.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\ASIC_Interface\bin\x86\Release\ASIC_Interface.pdb
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\ASIC_Interface\bin\x86\Release\CyUSB.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\ASIC_Interface\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\ASIC_Interface\bin\x86\Release\System.Threading.Tasks.Dataflow.xml
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.csprojResolveAssemblyReference.cache
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.Properties.Resources.resources
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.csproj.GenerateResource.Cache
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.pdb
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\ASIC_Interface\bin\x86\Release\ASIC_Interface.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\ASIC_Interface\bin\x86\Release\ASIC_Interface.pdb
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\ASIC_Interface\bin\x86\Release\CyUSB.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\ASIC_Interface\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\ASIC_Interface\bin\x86\Release\System.Threading.Tasks.Dataflow.xml
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.csprojResolveAssemblyReference.cache
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.Properties.Resources.resources
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.csproj.GenerateResource.Cache
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.pdb
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\ASIC_Interface\bin\x86\Release\ASIC_Interface.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\ASIC_Interface\bin\x86\Release\ASIC_Interface.pdb
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\ASIC_Interface\bin\x86\Release\CyUSB.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\ASIC_Interface\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\ASIC_Interface\bin\x86\Release\System.Threading.Tasks.Dataflow.xml
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.csprojAssemblyReference.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.Properties.Resources.resources
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.csproj.GenerateResource.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.csproj.CoreCompileInputs.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.csproj.CopyComplete
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\ASIC_Interface\obj\x86\Release\ASIC_Interface.pdb

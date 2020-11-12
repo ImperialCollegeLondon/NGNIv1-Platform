@@ -1,0 +1,50 @@
+D:\visual studio 2013\Projects\USBridge_WPF\Wifi_TCP\bin\Debug\Wifi_TCP.exe.config
+D:\visual studio 2013\Projects\USBridge_WPF\Wifi_TCP\bin\Debug\Wifi_TCP.exe
+D:\visual studio 2013\Projects\USBridge_WPF\Wifi_TCP\bin\Debug\Wifi_TCP.pdb
+D:\visual studio 2013\Projects\USBridge_WPF\Wifi_TCP\bin\Debug\Mono.Zeroconf.dll
+D:\visual studio 2013\Projects\USBridge_WPF\Wifi_TCP\bin\Debug\Mono.Zeroconf.Providers.Bonjour.dll
+D:\visual studio 2013\Projects\USBridge_WPF\Wifi_TCP\obj\Debug\Wifi_TCP.csprojResolveAssemblyReference.cache
+D:\visual studio 2013\Projects\USBridge_WPF\Wifi_TCP\obj\Debug\Wifi_TCP.exe
+D:\visual studio 2013\Projects\USBridge_WPF\Wifi_TCP\obj\Debug\Wifi_TCP.pdb
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Wifi_TCP\bin\Debug\Wifi_TCP.exe.config
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Wifi_TCP\bin\Debug\Wifi_TCP.exe
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Wifi_TCP\bin\Debug\Wifi_TCP.pdb
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Wifi_TCP\bin\Debug\Mono.Zeroconf.dll
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Wifi_TCP\bin\Debug\Mono.Zeroconf.Providers.Bonjour.dll
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Wifi_TCP\obj\Debug\Wifi_TCP.csprojResolveAssemblyReference.cache
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Wifi_TCP\obj\Debug\Wifi_TCP.exe
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\Wifi_TCP\obj\Debug\Wifi_TCP.pdb
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Wifi_TCP\bin\Debug\Wifi_TCP.exe.config
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Wifi_TCP\bin\Debug\Wifi_TCP.exe
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Wifi_TCP\bin\Debug\Wifi_TCP.pdb
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Wifi_TCP\bin\Debug\Mono.Zeroconf.dll
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Wifi_TCP\bin\Debug\Mono.Zeroconf.Providers.Bonjour.dll
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Wifi_TCP\obj\Debug\Wifi_TCP.csprojResolveAssemblyReference.cache
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Wifi_TCP\obj\Debug\Wifi_TCP.exe
+D:\Dropbox (Imperial Neuro)\USBridge_WPF\Wifi_TCP\obj\Debug\Wifi_TCP.pdb
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Wifi_TCP\bin\Debug\Wifi_TCP.exe.config
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Wifi_TCP\bin\Debug\Wifi_TCP.exe
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Wifi_TCP\bin\Debug\Wifi_TCP.pdb
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Wifi_TCP\bin\Debug\Mono.Zeroconf.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Wifi_TCP\bin\Debug\Mono.Zeroconf.Providers.Bonjour.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Wifi_TCP\obj\Debug\Wifi_TCP.csprojResolveAssemblyReference.cache
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Wifi_TCP\obj\Debug\Wifi_TCP.exe
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\Wifi_TCP\obj\Debug\Wifi_TCP.pdb
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Wifi_TCP\bin\Debug\Wifi_TCP.exe.config
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Wifi_TCP\bin\Debug\Wifi_TCP.exe
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Wifi_TCP\bin\Debug\Wifi_TCP.pdb
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Wifi_TCP\bin\Debug\Mono.Zeroconf.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Wifi_TCP\bin\Debug\Mono.Zeroconf.Providers.Bonjour.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Wifi_TCP\obj\Debug\Wifi_TCP.csprojResolveAssemblyReference.cache
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Wifi_TCP\obj\Debug\Wifi_TCP.exe
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\Wifi_TCP\obj\Debug\Wifi_TCP.pdb
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Wifi_TCP\bin\Debug\Wifi_TCP.exe.config
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Wifi_TCP\bin\Debug\Wifi_TCP.exe
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Wifi_TCP\bin\Debug\Wifi_TCP.pdb
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Wifi_TCP\bin\Debug\Mono.Zeroconf.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Wifi_TCP\bin\Debug\Mono.Zeroconf.Providers.Bonjour.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Wifi_TCP\obj\Debug\Wifi_TCP.csprojAssemblyReference.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Wifi_TCP\obj\Debug\Wifi_TCP.csproj.CoreCompileInputs.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Wifi_TCP\obj\Debug\Wifi_TCP.csproj.CopyComplete
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Wifi_TCP\obj\Debug\Wifi_TCP.exe
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\Wifi_TCP\obj\Debug\Wifi_TCP.pdb

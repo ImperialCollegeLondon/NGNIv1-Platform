@@ -1,0 +1,1 @@
+D:\visual studio 2013\Projects\USBridge_WPF\SharpDX.WPF\obj\Release\SharpDX.WPF.csprojResolveAssemblyReference.cache

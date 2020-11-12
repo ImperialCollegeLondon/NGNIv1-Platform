@@ -1,0 +1,41 @@
+D:\visual studio 2013\Projects\USBridge_WPF\CyUSB_dll_csharp\lib\CyUSB.dll
+D:\visual studio 2013\Projects\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.CyUSBEndPoint.resources
+D:\visual studio 2013\Projects\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.CyUSBDevice.resources
+D:\visual studio 2013\Projects\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.CyUSBInterfaceContainer.resources
+D:\visual studio 2013\Projects\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.MsgForm.resources
+D:\visual studio 2013\Projects\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.csproj.GenerateResource.Cache
+D:\visual studio 2013\Projects\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.dll
+D:\visual studio 2013\Projects\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.csprojResolveAssemblyReference.cache
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\CyUSB_dll_csharp\lib\CyUSB.dll
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.csprojResolveAssemblyReference.cache
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.CyUSBEndPoint.resources
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.CyUSBDevice.resources
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.CyUSBInterfaceContainer.resources
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.MsgForm.resources
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.csproj.GenerateResource.Cache
+C:\Users\songl\Dropbox (Imperial Neuro)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\CyUSB_dll_csharp\lib\CyUSB.dll
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.csprojResolveAssemblyReference.cache
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.CyUSBEndPoint.resources
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.CyUSBDevice.resources
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.CyUSBInterfaceContainer.resources
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.MsgForm.resources
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.csproj.GenerateResource.Cache
+C:\Users\songl\Dropbox (Imperial NGNI)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\CyUSB_dll_csharp\lib\CyUSB.dll
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.csprojResolveAssemblyReference.cache
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.CyUSBEndPoint.resources
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.CyUSBDevice.resources
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.CyUSBInterfaceContainer.resources
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.MsgForm.resources
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.csproj.GenerateResource.Cache
+D:\Dropbox (Imperial NGNI)\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\CyUSB_dll_csharp\lib\CyUSB.dll
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.csprojAssemblyReference.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.CyUSBEndPoint.resources
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.CyUSBDevice.resources
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.CyUSBInterfaceContainer.resources
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.MsgForm.resources
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.csproj.GenerateResource.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.csproj.CoreCompileInputs.cache
+C:\Users\abannon\Documents\NGNI\old_code\USBridge_WPF\USBridge_WPF\CyUSB_dll_csharp\obj\Release\CyUSB.dll
